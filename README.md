@@ -1,12 +1,12 @@
 ### 👀 Hey! Nice to see you. 👋
 
-<div>
+<div style="display:flex; flex-direction: row;">
 <div>
 Welcome to my github page! 
 I'm Lucas, Fullstack developer|Co-Founder Neonfox.tech|Lecturer Czechitas from  Ostrava, Czech Republic.
 </div>
 	<div>
-		<img src="fox.jpg" alt="logo">
+		<img src="dream_TradingCard-3.jpg" alt="logo">
 	</div>
 </div>
 
