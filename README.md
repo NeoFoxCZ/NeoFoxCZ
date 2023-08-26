@@ -1,7 +1,14 @@
 ### 👀 Hey! Nice to see you. 👋
 
+<div>
+<div>
 Welcome to my github page! 
 I'm Lucas, Fullstack developer|Co-Founder Neonfox.tech|Lecturer Czechitas from  Ostrava, Czech Republic.
+</div>
+	<div>
+		<img src="fox.jpg" alt="logo">
+	</div>
+</div>
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -46,8 +53,8 @@ I'm Lucas, Fullstack developer|Co-Founder Neonfox.tech|Lecturer Czechitas from  
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Neonfox-sro/AresClient?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Neonfox-sro/AresClient?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Neonfox-sro/AresClient?style=flat-square&labelColor=343b41"/></td>
-      <td>[![NuGet version](https://img.shields.io/nuget/v/AresClient.svg)](https://www.nuget.org/packages/AresClient)</td>
-      <td>[![NuGet downloads](https://img.shields.io/nuget/dt/AresClient.svg)](https://www.nuget.org/packages/AresClient/)</td>
+      <td><img alt="Version" src="https://img.shields.io/nuget/v/AresClient.svg"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/nuget/dt/AresClient.svg"/></td>
     </tr>
 	
   </tbody>
